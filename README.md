@@ -2,10 +2,10 @@
 <div align="center">
   <table>
     <th>
-      <p>😺 My name is Gustavo, but you can call me Guto.</p>
+      😺 My name is Gustavo, but you can call me Guto.
     </th>
     <th>
-      <p>💡 I'm web deveoper, clarinetist and mechatronics technician. </p>
+      💡 I'm web developer, clarinetist and mechatronics technician.
     </th>
     <th>
       💻 I'm currently working on web development at <a href="https://fieldcontrol.com.br/">Field Control</a>, from Brazil. <img  width="30"                   src="https://avatars.githubusercontent.com/u/17989287?s=280&v=4">
