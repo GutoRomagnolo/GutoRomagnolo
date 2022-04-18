@@ -43,7 +43,6 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ### Contact
-<div>
   <a href="mailto:guromagnolo23@hotmail.com">
     <img src="https://img.shields.io/badge/guromagnolo23@hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank">
   </a>
@@ -51,4 +50,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
     <a href="https://instagram.com/gutoromagnolo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</div>
