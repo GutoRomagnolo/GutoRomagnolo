@@ -20,9 +20,15 @@
     </td>
   </table>
   <table>
-    <th>
-      Besides that, I'm contributing to the development of <a href="https://www.marca-ai.com/">Marca Aí</a>, created by the startup <a href="https://www.tribostech.com">Tribos Tech</a>
-    </th>
+    <tr>
+      <th>
+        Besides that, I'm contributing to the development of <a href="https://www.marca-ai.com/">Marca Aí</a>, created by the startup <a                 href="https://www.tribostech.com">Tribos Tech</a>
+      </th>
+    </tr>
+    <td align="center">
+      <img width="161" src="https://user-images.githubusercontent.com/80481752/163882816-80b2c5b5-26d9-482b-998e-9aa38674d7b3.png">
+      <img src="https://user-images.githubusercontent.com/80481752/163882869-378eaca7-158e-4e8a-92e8-c7a624ca3bc1.png">
+    </td>
   </table>
 </div>
                                                                   
