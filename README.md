@@ -45,7 +45,7 @@
 ### Contact
 <div>
   <a href="mailto:guromagnolo23@hotmail.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/guromagnolo23@hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/gustavo-romagnolo-055584177" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
