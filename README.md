@@ -1,6 +1,16 @@
-### Hi there 👋
+## Hi there! 👋
+####  😺 My name is Gustavo, but you can call me Guto. 
+####  💡 I'm web developer, clarinetist and mechatronics technician from Brazil.
+####  📚 I study Systems Analysis and Development at the Universidade Estadual de Campinas (UNICAMP), one of the best universities in Latin America.
+####  💻 I'm currently working on web development at Field Control.
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GutoRomagnolo&count_private=true&theme=algolia&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutoRomagnolo&layout=compact&theme=algolia" />
+</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GutoRomagnolo&count_private=true)
+
 
 
 <!--
