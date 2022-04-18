@@ -1,14 +1,26 @@
 ## Welcome! 👋
-###  😺 My name is Gustavo, but you can call me Guto. 
-###  💡 I'm web deveoper, clarinetist and mechatronics technician.
-###  📚 I study Systems Analysis and Development at the Universidade Estadual de Campinas (UNICAMP). 
-<a>
-  <img align="center" src="https://www.ft.unicamp.br/sites/default/files/bannerFT.jpg">
-</a>
-
-###  💻 I'm currently working on web development at <a href="https://fieldcontrol.com.br/">Field Control</a> <img  width="30" src="https://avatars.githubusercontent.com/u/17989287?s=280&v=4">, from Brazil.
-                                                                      
-
+<div align="center">
+  <table>
+    <th>
+      <p>😺 My name is Gustavo, but you can call me Guto.</p>
+    </th>
+    <th>
+      <p>💡 I'm web deveoper, clarinetist and mechatronics technician. </p>
+    </th>
+    <th>
+      💻 I'm currently working on web development at <a href="https://fieldcontrol.com.br/">Field Control</a>, from Brazil. <img  width="30"                   src="https://avatars.githubusercontent.com/u/17989287?s=280&v=4">
+    </th>
+  </table>
+  <table>
+    <tr>
+      <th> 📚 I study Systems Analysis and Development at the Universidade Estadual de Campinas (UNICAMP).</th>
+    </tr>
+    <td>
+      <img align="center" src="https://www.ft.unicamp.br/sites/default/files/bannerFT.jpg">
+    </td>
+  </table>
+</div>
+                                                                  
 ### Main technologies and tools
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
