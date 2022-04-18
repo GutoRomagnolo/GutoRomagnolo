@@ -1,15 +1,15 @@
 ## Welcome! 👋
-####  😺 My name is Gustavo, but you can call me Guto. 
-####  💡 I'm web deveoper, clarinetist and mechatronics technician.
-####  📚 I study Systems Analysis and Development at the Universidade Estadual de Campinas (UNICAMP). 
+###  😺 My name is Gustavo, but you can call me Guto. 
+###  💡 I'm web deveoper, clarinetist and mechatronics technician.
+###  📚 I study Systems Analysis and Development at the Universidade Estadual de Campinas (UNICAMP). 
 <a>
-  <img align="center" src="https://www.ige.unicamp.br/aapg/wp-content/uploads/sites/32/2016/02/Logo_Unicamp_Blanco.png" width="70">
+  <img align="center" src="https://www.ft.unicamp.br/sites/default/files/bannerFT.jpg">
 </a>
 
-####  💻 I'm currently working on web development at <a href="https://fieldcontrol.com.br/">Field Control</a> <img  width="30" src="https://avatars.githubusercontent.com/u/17989287?s=280&v=4">, from Brazil.
+###  💻 I'm currently working on web development at <a href="https://fieldcontrol.com.br/">Field Control</a> <img  width="30" src="https://avatars.githubusercontent.com/u/17989287?s=280&v=4">, from Brazil.
                                                                       
 
-#### Main technologies and tools
+### Main technologies and tools
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
 
-#### Social
+### Contact
 <div>
   <a href = "mailto:guromagnolo23@hotmail.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank">   </a>
