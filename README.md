@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GutoRomagnolo)](https://github.com/GutoRomagnolo/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GutoRomagnolo&count_private=true)
+
 
 <!--
 **GutoRomagnolo/GutoRomagnolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
