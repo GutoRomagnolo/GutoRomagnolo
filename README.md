@@ -22,7 +22,7 @@
   <table>
     <tr>
       <th>
-        Besides that, I'm contributing to the development of <a href="https://www.marca-ai.com/">Marca Aí</a>, created by the startup <a                 href="https://www.tribostech.com">Tribos Tech</a>
+        Besides that, I'm contributing to the development of <a href="https://www.marca-ai.com/">Marca Aí</a>, created by the startup <a                 href="https://www.tribostech.com">Tribos Tech</a>.
       </th>
     </tr>
     <td align="center">
