@@ -15,9 +15,6 @@
     <tr>
       <th> 📚 I study Systems Analysis and Development at the Universidade Estadual de Campinas (UNICAMP).</th>
     </tr>
-    <td>
-      <img align="center" src="https://www.ft.unicamp.br/sites/default/files/bannerFT.jpg">
-    </td>
   </table>
   <table>
     <tr>
