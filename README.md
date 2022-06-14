@@ -44,6 +44,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-5849BE?style=for-the-badge&logo=cypress&logoColor=white)
 
 ### Contact
   <a href="mailto:guromagnolo23@hotmail.com">
