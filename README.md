@@ -13,11 +13,6 @@
   </table>
   <table>
     <tr>
-      <th> 📚 I study Systems Analysis and Development at the Universidade Estadual de Campinas (UNICAMP).</th>
-    </tr>
-  </table>
-  <table>
-    <tr>
       <th>
         Besides that, I'm contributing to the development of <a href="https://www.marca-ai.com/">Marca Aí</a>, created by the startup <a                 href="https://www.tribostech.com">Tribos Tech</a>.
       </th>
