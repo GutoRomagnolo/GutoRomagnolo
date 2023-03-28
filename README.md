@@ -8,7 +8,7 @@
       💡 I'm web developer, clarinetist and mechatronics technician.
     </th>
     <th>
-      💻 I'm currently working on web development internship at <a href="https://fieldcontrol.com.br/">Field Control</a>, from Brazil. <img  width="30"                   src="https://avatars.githubusercontent.com/u/17989287?s=280&v=4">
+      💻 I'm currently working on web development internship at <a href="https://www.eldorado.org.br/">Instituto de Pesquisas Eldorado</a>, from Brazil. <img  width="30"                   src="https://user-images.githubusercontent.com/80481752/228376090-f6b080a9-1e6e-44fc-ade7-c5a9b30ddffd.png">
     </th>
   </table>
   <table>
