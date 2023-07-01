@@ -25,7 +25,7 @@
 </div>
 
 ### Languages
-<img src="https://github.com/GutoRomagnolo/GutoRomagnolo/assets/80481752/f9b6096e-fe9f-4786-975f-62d1a1cc8fa8">
+<img src="https://github.com/GutoRomagnolo/GutoRomagnolo/assets/80481752/9d114645-0f71-4a5d-9cce-28cae5e32f80">
 
 ### Main technologies and tools
 
