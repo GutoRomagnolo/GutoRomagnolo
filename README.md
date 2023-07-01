@@ -23,7 +23,10 @@
     </td>
   </table>
 </div>
-                                                                  
+
+### Languages
+<img src="https://github.com/GutoRomagnolo/GutoRomagnolo/assets/80481752/f9b6096e-fe9f-4786-975f-62d1a1cc8fa8">
+
 ### Main technologies and tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7B93E?style=for-the-badge&logo=javascript&logoColor=white)
